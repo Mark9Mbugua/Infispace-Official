@@ -7,6 +7,7 @@ export default class Home extends Component {
   render() {
     return (
         <Container>
+            <br />
             <Jumbotron>
                 <h2>Welcome to Infispace</h2>
                 <p>We are your number 1 software plugs. We stick to the
