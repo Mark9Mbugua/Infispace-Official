@@ -36,7 +36,7 @@ export default class Home extends Component {
                   tapping into the amazing tech talents in the region</p>
               </Col>
               <Col xs={12} sm={4} className="person-wrapper">
-                <Image src="assets/maintain.jpg" className="profile-pic"/>
+                <Image src="assets/in-services.jpg" className="profile-pic"/>
                 <h3>Maintainance</h3>
                 <p>I am the Company Administrator. It is my responsibility to see that we grow exponentially as well as 
                   tapping into the amazing tech talents in the region</p>
