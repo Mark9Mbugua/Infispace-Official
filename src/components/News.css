@@ -11,12 +11,15 @@
     border-radius: 5%;
 }
 
-.btn-primary {
-    background-image: none;
-    border: none;
-    border-radius: 5%;
-
-}
 h2 {
     margin-bottom: 1em;
+}
+
+.card-img{
+    height: 180px;
+    width: 80%;
+    transition: transform .2s;
+}
+.card-img:hover {
+    transform: scale(1.5);
 }
