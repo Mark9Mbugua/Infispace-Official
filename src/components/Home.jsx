@@ -14,9 +14,7 @@ export default class Home extends Component {
               <Row className="show-grid center">
                 <Col xs={12} sm={4} className="homepic-wrapper">
                   <ButtonToolbar>
-                      <Button bsStyle="primary" href="/about">Learn More</Button>
-                      <div class="divider"/>
-                      <Button bsStyle="primary" href="/about">Get Started</Button>
+                      <Button className="primary" href="/about">Learn More</Button>
                   </ButtonToolbar>
                 </Col>
             </Row>
