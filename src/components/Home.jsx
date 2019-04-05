@@ -10,7 +10,7 @@ export default class Home extends Component {
             <br />
             <Jumbotron className="jumbo">
               <h2>Welcome to Infispace</h2>
-              <p>Let us make you quality apps to grow you business faster</p> 
+              <p>Invest in tech for consistent growth.</p> 
               <Row className="show-grid center">
                 <Col xs={12} sm={4} className="homepic-wrapper">
                   <ButtonToolbar>
@@ -23,21 +23,23 @@ export default class Home extends Component {
             <Row className="show-grid text-center">
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image src="assets/web-dev.jpg" className="profile-pic"/>
-                <h3>Web/App Development</h3>
-                <p>I am the CEO. It is my responsibility to see that we grow exponentially as well as 
-                  tapping into the amazing tech talents in the region</p>
+                <h3>App Development</h3>
+                <p>We build quality web and mobile applications. We give a priority to scalability
+                   because we aim to achieve consistent business growth.</p>
               </Col>
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image src="assets/seo2.jpg" className="profile-pic"/>
                 <h3>SEO</h3>
-                <p>I am the Chariman of the board. It is my responsibility to see that we grow exponentially as well as 
-                  tapping into the amazing tech talents in the region</p>
+                <p>We have the expertise to direct traffic to your web application and make it appear on the first 
+                  pages of popular searches in what is popularly known as Search Engine Optimization(SEO).
+                </p>
               </Col>
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image src="assets/in-services.jpg" className="profile-pic"/>
-                <h3>Maintainance</h3>
-                <p>I am the Company Administrator. It is my responsibility to see that we grow exponentially as well as 
-                  tapping into the amazing tech talents in the region</p>
+                <h3>Maintenance</h3>
+                <p>We maintain your web application for free for the first three months after going live! Hurry! Offer
+                  is going to end soon.
+                </p>
               </Col>
             </Row>
             <div className="icons-container">

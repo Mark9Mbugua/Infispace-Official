@@ -18,8 +18,7 @@ h2 {
 .card-img{
     height: 180px;
     width: 80%;
-    transition: transform .2s;
 }
-.card-img:hover {
-    transform: scale(1.5);
+.news {
+    margin-top: 3em;
 }
