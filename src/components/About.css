@@ -5,16 +5,10 @@
     margin-bottom: 2em;
 }
 
-.centered {
-    position: absolute;
-    top: 35%;
-    left: 40%;
-    transform: translate(-50%, -50%);
-    color: black;
-  }
-
-  .person-wrapper {
+.person-wrapper {
     margin-bottom: 2em;
+    margin-top: 2em;
+
 }
 
 .about-pic {
@@ -24,4 +18,13 @@
 
 h3 {
     margin-bottom: 1em;
+
+}
+
+.background {
+    width: 100%;
+    height: 300px;
+    background-color: rgba(166, 164, 168, 0.205);
+    margin-top: 2em;
+    border-radius: 5px;
 }
