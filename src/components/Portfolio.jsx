@@ -32,7 +32,7 @@ export default class Portfolio extends Component {
                     <Card.Text>
                       A tech company's Website
                     </Card.Text>
-                    <Button variant="primary" href="http://127.0.0.1:3000">
+                    <Button variant="primary" href="https://infispace-ke.herokuapp.com/">
                       Visit Site
                     </Button>
                   </Card.Body>
