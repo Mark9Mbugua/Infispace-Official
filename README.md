@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live App
+To explore the app, click [here](https://infispace-ke.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
