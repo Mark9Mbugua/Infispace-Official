@@ -19,7 +19,6 @@ export default class Home extends Component {
                 </Col>
             </Row>
             </Jumbotron>
-
             <Row className="show-grid text-center">
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image src="assets/web-dev.jpg" className="profile-pic"/>
