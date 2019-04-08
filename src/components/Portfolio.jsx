@@ -24,6 +24,7 @@ export default class Portfolio extends Component {
                   </Card.Body>
                 </Card>  
               </Col>
+              
               <Col xs={12} sm={4} className="card-container">
                 <Card className="cardy">
                   <Card.Body>
@@ -38,8 +39,24 @@ export default class Portfolio extends Component {
                   </Card.Body>
                 </Card>  
               </Col>
+
+              <Col xs={12} sm={4} className="card-container">
+                <Card className="cardy">
+                  <Card.Body>
+                    <Card.Title>Pixabay Image Finder </Card.Title>
+                    <Image src="assets/pixabay.jpg" className="card-img"/>
+                    <Card.Text>
+                      Using Pixabay's API to retrieve photos
+                    </Card.Text>
+                    <Button variant="primary" href="https://pixabay-images.herokuapp.com/">
+                      Visit Site
+                    </Button>
+                  </Card.Body>
+                </Card>  
+              </Col>
             </Row>
           </Container>
+
             <Container className="news">
               <h2>News</h2>
               <Row>
